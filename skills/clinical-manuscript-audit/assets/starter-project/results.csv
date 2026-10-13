@@ -1,0 +1,1 @@
+result_id,role,source_file,source_location,population,outcome,comparison,model,effect_measure,estimate,ci_lower,ci_upper,ci_level,p_value,sample_n,events_n,denominator_n,timepoint,adjustment_set,prespecified,notes

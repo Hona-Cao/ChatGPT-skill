@@ -1,0 +1,3 @@
+interface:
+  display_name: "Clinical Manuscript Audit"
+  short_description: "Medical writing, reviewer responses, and scientific audit"

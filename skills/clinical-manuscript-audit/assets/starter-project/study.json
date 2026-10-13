@@ -1,0 +1,20 @@
+{
+  "study_id": "",
+  "title": "",
+  "objective": "",
+  "population": "",
+  "main_outcome": "",
+  "primary_design": "",
+  "secondary_components": [],
+  "routine_health_data": false,
+  "pharmacoepidemiology": false,
+  "ai_diagnostic": false,
+  "ai_intervention": false,
+  "protocol_only": false,
+  "analysis_software": [],
+  "analysis_plan_status": "unknown",
+  "target_journal": "",
+  "data_handling_confirmed": false,
+  "official_checklist_complete": false,
+  "human_signoff": false
+}

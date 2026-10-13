@@ -1,0 +1,23 @@
+{
+  "name": "clinical-manuscript-plugin",
+  "version": "1.1.0",
+  "description": "Evidence-grounded clinical manuscript writing, statistical audits, major/minor journal revisions, point-by-point reviewer responses and verified rebuttal letters.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Clinical Manuscript Writing & Audit",
+    "shortDescription": "Medical manuscript writing, revisions and reviewer responses",
+    "longDescription": "Draft and audit clinical, epidemiological and public-health manuscripts. New v1.1 Major Revision workflow parses reviewer comments into traceable requests, plans evidence-supported changes, cross-checks claimed reanalyses and manuscript edits, handles reviewer conflicts and R1/R2 follow-ups, and assembles point-by-point rebuttal drafts. Requires human scientific signoff.",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Use Clinical Manuscript Audit to plan my Major Revision: categorize all reviewer comments, identify additional analyses, and create a point-by-point response matrix without inventing changes.",
+      "Check my Response to Reviewers against the revised manuscript, statistical evidence, and actual page/line locations before resubmission.",
+      "Audit the completed statistical tables and methods before drafting a clinical Results section."
+    ],
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "developerName": "Hona-Cao"
+  }
+}
